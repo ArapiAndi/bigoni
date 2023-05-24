@@ -1,0 +1,32 @@
+div.container {font-family: Georgia, 'Times New Roman', Times, serif;
+               font-size: 11pt;
+               }
+
+body { background-color:black;
+       color: white;}
+
+h1 { font-weight: bolder; }
+
+h2 { font-weight: bold;}
+
+h3 { font-weight: bold;}
+
+div.notizie1 {margin-top: 5px;
+             margin-right: 10px;
+             margin-left: 10px;
+             margin-bottom: 5px;
+             text-align: center;}
+
+ div.notizie2 {margin-top: 5px;
+              margin-right: 10px;
+              margin-left: 10px;
+              margin-bottom: 5px;
+              text-align: center;}
+
+div.immagine { text-align: center;}
+
+a.navbar-brand { padding-top: 0px;
+                 padding-bottom: 10px;
+                 padding-left: 10px;
+                 padding-right: 10px;
+}
